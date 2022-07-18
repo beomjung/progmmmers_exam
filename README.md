@@ -1,4 +1,4 @@
-# progmmmers_examSmall parking management Project
+Small parking management Project
 소단지 경비원을 위한 주차 관리 웹 애플리케이션
 🙋🏻‍♂️ 2022 개인 프로젝트
 
